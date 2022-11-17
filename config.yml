@@ -17,8 +17,8 @@ params:
       url: "https://twitter.com/hugiselephant"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/hugiselephant"
-    # - name: "rss"
-    #   url: "https://hugiselephant.github.io/index.xml"
+    - name: "rss"
+      url: "https://hugiselephant.github.io/index.xml"
   ShowReadingTime: true
   author: "Sung Hong"
   contact: "sung@hugiselephant.com"
