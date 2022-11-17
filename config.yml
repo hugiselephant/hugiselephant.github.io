@@ -1,6 +1,6 @@
-baseURL: https://hugiselephant.github.io
+baseURL: https://hugiselephant.com
 languageCode: en-us
-title: Sung Hong
+title: Hugi's Elephant
 theme: "PaperMod"
 
 params:
