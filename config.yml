@@ -5,20 +5,23 @@ theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: Welcome 🐘
+    Content: I'd like to invite you on a thoughtful journey with me. 
 
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/hugiselephant"
-    # - name: "youtube"
-    #   url: "https://www.youtube.com/channel/hugiselephant"
+    - name: "youtube"
+      url: "https://www.youtube.com/@hugiselephant"
     - name: "twitter"
       url: "https://twitter.com/hugiselephant"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/hugiselephant/"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/hugiselephant"
     - name: "rss"
       url: "https://hugiselephant.github.io/index.xml"
+
   ShowReadingTime: true
   author: "Sung Hong"
   contact: "sung@hugiselephant.com"
