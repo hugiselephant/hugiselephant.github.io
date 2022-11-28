@@ -56,7 +56,7 @@ Outline
 
          `public:: true`
 
-   + Ingredients
+  + The Ingredients
 
     + Logseq
 
