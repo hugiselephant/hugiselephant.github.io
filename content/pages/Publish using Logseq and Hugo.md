@@ -18,7 +18,7 @@ Outline
 
     + What is a thought? Thinking about thinking so called Metathinking is one of the most interesting questions or it could be a great way to get your brain stuck in an infinite Recursion.
 
-    + 
+   + 
 
   + Ideas grow in a Nonlinear Workflow
 
@@ -44,7 +44,7 @@ Outline
 
       + Open Source
 
-      + Permanent -
+      + Permanent home
 
         + like getting married, hard to commit, posting somthing to the public, like carving in stone.
 
@@ -54,15 +54,15 @@ Outline
 
       + Make it public for publishing
 
-`public:: true`
+         `public:: true`
 
-    + Ingredients
+   + Ingredients
 
-      + Logseq
+    + Logseq
 
-      + GitHub Pages
+    + GitHub Pages
 
-      + Logseq plugin Logseq-schrodinger
+    + Logseq plugin Logseq-schrodinger
 
   + Outro
 
@@ -71,7 +71,3 @@ Outline
     + Improvements wishlist
 
     + Logseq native solution could come later
-
-  + 
-
-
