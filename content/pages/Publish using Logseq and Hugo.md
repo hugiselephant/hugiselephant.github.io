@@ -54,9 +54,7 @@ Outline
 
       + Make it public for publishing
 
-```
-public:: true
-```
+`public:: true`
 
     + Ingredients
 
