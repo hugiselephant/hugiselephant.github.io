@@ -1,12 +1,4 @@
 ---
-author: (name)
-url: (url)
-tags:
-- (tags)
-rating:
-- 00 ⭐️⭐️⭐️⭐️⭐️
-added:
-- 2022-11-28 Monday
 title: Idea to Action: Fast and easy way to publish an article using Logseq and Hugo
 categories:
 date: 2022-11-28
