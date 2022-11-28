@@ -1,6 +1,10 @@
 ---
+public: true
+format: article
 title: GoHugo.io
-tags: open source, static site
+tags:
+  - open source
+  - static site
 categories:
 date: 2022-11-16
 lastMod: 2022-11-16
