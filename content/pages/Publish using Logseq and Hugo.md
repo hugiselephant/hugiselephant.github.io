@@ -1,8 +1,9 @@
 ---
+date: 2023-02-07
 title: Publish using Logseq and Hugo
+tags:
 categories:
-date: 2022-11-28
-lastMod: 2022-11-28
+lastMod: 2023-02-07
 ---
 
 
@@ -18,7 +19,7 @@ Outline
 
     + What is a thought? Thinking about thinking so called Metathinking is one of the most interesting questions or it could be a great way to get your brain stuck in an infinite Recursion.
 
-   + 
+    + 
 
   + Ideas grow in a Nonlinear Workflow
 
@@ -54,15 +55,17 @@ Outline
 
       + Make it public for publishing
 
-         `public:: true`
+```
+public:: true
+```
 
-  + The Ingredients
+    + Ingredients
 
-    + Logseq
+      + Logseq
 
-    + GitHub Pages
+      + GitHub Pages
 
-    + Logseq plugin Logseq-schrodinger
+      + Logseq plugin Logseq-schrodinger
 
   + Outro
 
@@ -71,3 +74,7 @@ Outline
     + Improvements wishlist
 
     + Logseq native solution could come later
+
+  + 
+
+
