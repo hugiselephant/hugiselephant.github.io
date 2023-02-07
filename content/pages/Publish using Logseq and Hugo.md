@@ -1,5 +1,5 @@
 ---
-date: 2023-02-07
+date: 2022-11-28
 title: Publish using Logseq and Hugo
 tags:
 categories:
@@ -59,13 +59,13 @@ Outline
 public:: true
 ```
 
-    + Ingredients
+  + Ingredients
 
-      + Logseq
+    + Logseq
 
-      + GitHub Pages
+    + GitHub Pages
 
-      + Logseq plugin Logseq-schrodinger
+    + Logseq plugin Logseq-schrodinger
 
   + Outro
 
