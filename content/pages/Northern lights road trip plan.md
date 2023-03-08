@@ -33,11 +33,11 @@ This is my plan
 
 I generated some images using [DiffusionBee](https://diffusionbee.com/) with this prompt for fun. It's more fun since Stable Diffusion has never seen images of the real Cyber Truck. It is kind of like I am dreaming with AI.
 
-  + > tough electric tesla cyber truck looks like a sleek military armoured vehicle, made of flat shiny stainless steal triangular panels, converted into a camping truck with rooftop with glass dome on top to see the northern lights and stars in the beautiful night sky in wintery northern Canada. HD, photograph, nature photograph, long exposure night sky
+> tough electric tesla cyber truck looks like a sleek military armoured vehicle, made of flat shiny stainless steal triangular panels, converted into a camping truck with rooftop with glass dome on top to see the northern lights and stars in the beautiful night sky in wintery northern Canada. HD, photograph, nature photograph, long exposure night sky
 
 ![image.png](/assets/image_1678259218897_0.png)
 
-#css-gallery
+
 
 ![image.png](/assets/image_1678258976366_0.png)
 
@@ -50,35 +50,3 @@ I generated some images using [DiffusionBee](https://diffusionbee.com/) with thi
 ![image.png](/assets/image_1678258107147_0.png)
 
 ![image.png](/assets/image_1678257769088_0.png)
-
-
-
-
-
-
-
-
-
-Publish steps
-
-  + Mark Page as "Make it public for publishing"
-
-  + Hugo page proporties
-
-    + public: true
-
-    + tags:
-
-    + category:
-
-    + date: 2023-02-07
-
-  + Then select "Export all public pages to hugo"
-
-  + export zip file
-
-  + unzip and copy new files to Git folder
-
-  + Commit changes
-
-  + Github action will build and deploy
