@@ -10,30 +10,6 @@ title: Joy without Guilt
 categories:
 lastMod: 2023-03-21
 ---
-Publish steps
-
-  + Mark Page as "Make it public for publishing"
-
-  + Hugo page proporties
-
-    + public: true
-
-    + tags:
-
-    + category:
-
-    + date: 2023-02-07
-
-  + Then select "Export all public pages to hugo"
-
-  + export zip file
-
-  + unzip and copy new files to Git folder
-
-  + Commit changes
-
-  + Github action will build and deploy
-
 ![los cabos mexico.jpeg](/assets/los_cabos_mexico_1679431252856_0.jpeg)
 
 
