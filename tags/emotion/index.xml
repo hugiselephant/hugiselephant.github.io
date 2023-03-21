@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Emotion on Hugi's Elephant</title><link>https://hugiselephant.com/tags/emotion/</link><description>Recent content in Emotion on Hugi's Elephant</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugiselephant.com/tags/emotion/index.xml" rel="self" type="application/rss+xml"/><item><title>Joy without Guilt</title><link>https://hugiselephant.com/pages/joy-without-guilt/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://hugiselephant.com/pages/joy-without-guilt/</guid><description>Publish steps
+Mark Page as &amp;ldquo;Make it public for publishing&amp;rdquo;
+Hugo page proporties
+public: true
+tags:
+category:
+date: 2023-02-07
+Then select &amp;ldquo;Export all public pages to hugo&amp;rdquo;
+export zip file
+unzip and copy new files to Git folder
+Commit changes
+Github action will build and deploy
+I am very grateful, and I feel very fortunate. I just came back from a one week trip to Los Cabos Mexico.
+Feeling Joy Escaping the grey weather.</description></item></channel></rss>
