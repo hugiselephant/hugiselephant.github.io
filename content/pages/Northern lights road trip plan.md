@@ -2,10 +2,12 @@
 tags:
 - DiffusionBee app
 - Cyber Truck
+- Northern Lights
+- Aurora Borealis
 date: 2023-03-07
 title: Northern lights road trip plan
 categories:
-lastMod: 2023-03-07
+lastMod: 2023-03-08
 ---
 
 
