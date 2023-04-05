@@ -1,8 +1,16 @@
 ---
+tags:
+- Youtube Content Creator
+- Universal Basic Income
+- Coop
+- Organization Design
+- Steward Ownership
+category:
+- Half baked ideas
 date: 2023-04-04
 title: Creator collective
-tags:
 categories:
+- Half baked ideas
 lastMod: 2023-04-05
 ---
 We hear over and over that creativity is always one of the best skill to have for the future.
@@ -13,7 +21,7 @@ We hear over and over that creativity is always one of the best skill to have fo
 
 
 
-# But why do so many creatives struggle?
+## But why do so many creatives struggle?
 
 
 
@@ -37,7 +45,7 @@ I start with the Big Questions
 
 For business we have Venture Capital, Incubators, Angel investors... but artists have to work on their art on their own. Usually supported by themselves, or family and friends. Rich uncle? Or maybe already rich?
 
-The world has changed. Platforms like Patrion is proving that it is possible to make a living with a small but devoted fan base. it was already 15 years ago when Kevin Kelly talked about anyone making a living with 1000 True Fans[*](https://kk.org/thetechnium/1000-true-fans/)
+The world has changed. Platforms like Patrion is proving that it is possible to make a living with a small but devoted fan base. It was already 15 years ago when Kevin Kelly talked about anyone making a living with 1000 True Fans[*](https://kk.org/thetechnium/1000-true-fans/)
 
 
 
@@ -51,7 +59,7 @@ There are many ideas and platforms now that help creators. But at the end of the
 
 
 
-I believe there is a better model for creatives. What if there was a better system of help and support them succeed?
+I believe there is a better model for creatives. What if there was a better system of help and support them succeed? Some kind of Creator Collective.
 
   + Early Support like incubators
 
@@ -69,6 +77,6 @@ I believe there is a better model for creatives. What if there was a better syst
 
     + success of creatives
 
-    + share success among creatives
+    + share the success among creatives
 
     + joy when creating
