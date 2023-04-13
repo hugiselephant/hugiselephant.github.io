@@ -3,7 +3,7 @@ tags:
 - AI
 - Human Experience
 date: 2023-04-12
-title: They say AI is going to take my job. I can't wait
+title: They say AI is going to take my job. Don't worry.
 categories:
 lastMod: 2023-04-12
 ---
@@ -17,4 +17,4 @@ Basic income anyone?
 
 However in the mean time, we need a more human story. One that empowers our dreams. For myself at least, I think now more than ever I need to focus on figuring out my own human experience. The "Human" side of the Human AI Interface must be humane. It can be the "Constant" even with all the change that is happening around us.
 
-Don't worry. You can't keep up with all the AI technology. No one can. But don't worry. Once we decide on our side of the interface, AI will learn to adapt to it.
+You can't keep up with all the AI technology. No one can. But don't worry. Once you decide on our side of the interface, AI will learn to adapt to it. So make sure you like the human experience you make for yourself.
