@@ -80,3 +80,13 @@ I believe there is a better model for creatives. What if there was a better syst
     + share the success among creatives
 
     + joy when creating
+
+
+
+Agencies that connect Brands to Creators
+
+  + I think it means selling ads. It makes sense that people will do things that make money
+
+  + https://collabstr.com/
+
+  + https://creator.co/
