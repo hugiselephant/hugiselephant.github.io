@@ -49,27 +49,3 @@ Work on this
   + Help myself to be healthy, help people I love around me to be healthy.
 
 
-
-Publish steps #css-red-bg
-
-  + Mark Page as "Make it public for publishing"
-
-  + Hugo page proporties
-
-    + public: true
-
-    + tags:
-
-    + category:
-
-    + date: 2023-02-07
-
-  + Then select "Export all public pages to hugo"
-
-  + export zip file
-
-  + unzip and copy new files to Git folder
-
-  + Commit changes
-
-  + Github action will build and deploy
