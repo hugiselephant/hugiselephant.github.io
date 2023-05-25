@@ -18,6 +18,6 @@ I think J.R.R Tolkien and Adel both once said
 
 
 
-Once I realized that is what I am good at, it doesn't feel so bad. The book 📖 Delivered From Distraction described it Chronic wandering of the mind.
+Once I realized that is what I am good at, it doesn't feel so bad. The book 📖 Delivered From Distraction described brains like mine as "Chronic wandering of the mind".
 
 
