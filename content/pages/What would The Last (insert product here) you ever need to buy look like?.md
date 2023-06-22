@@ -6,6 +6,8 @@ title: What would The Last (insert product here) you ever need to buy look like?
 categories:
 lastMod: 2023-06-22
 ---
+![image.png](/assets/image_1687415828946_0.png)
+
 In the world where consumerism, fast fashion, instant, single use, and [[designed obsolescence]] is the most profitable business practice. What would the last product you need to buy look like?
 
   + The Last cup
