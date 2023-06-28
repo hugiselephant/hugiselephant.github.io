@@ -1,6 +1,6 @@
 ---
 tags:
-- 💾 Logseq
+- Logseq
 - PKM
 - second brain
 - Smart Merge
@@ -10,6 +10,10 @@ title: Logseq version 9.10 Smart Merge feature
 categories:
 lastMod: 2023-06-29
 ---
+
+
+![IMG_4914.PNG](/assets/img_4914_1687970707880_0.png)
+
 ### Logseq today just (4 hours ago) released Version 9.10
 
   + So why am I so excited about this release that I am writing about it?
