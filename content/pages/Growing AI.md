@@ -1,5 +1,5 @@
 ---
-tags: AI
+tags:
 categories:
 date: 2023-07-19
 title: Growing AI
