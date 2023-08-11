@@ -6,15 +6,13 @@ category:
 date: 2023-05-31
 title: Cyber Truck Roadtrip Plan
 categories:
-lastMod: 2023-05-31
+lastMod: 2023-07-26
 ---
 
 
 To make this a reality, a plan needs to be in place.
 
 First I need to be able to imagine it! Then I will be able to make it real.
-
-
 
 Ideas Brain Storming
 
@@ -32,8 +30,6 @@ Ideas Brain Storming
 
     + Making connections
 
-
-
 Things I want to do
 
   + [Total Solar eclipse](https://www.timeanddate.com/eclipse/solar/2024-april-8) in [[2024-04-08 Monday]] 8:42 AM
@@ -46,8 +42,6 @@ Things I want to do
 
   + Finale - watch the [Northern lights road trip plan]({{< ref "/pages/Northern lights road trip plan" >}})
 
-
-
 Places I want to go experience
 
   + Best places to go on an RV in Canada
@@ -59,8 +53,6 @@ Places I want to go experience
     + North
 
     + [[Haida Gwaii]]
-
-  + 
 
   + US
 
@@ -90,8 +82,6 @@ Places I want to go experience
 
   + Maybe Season 2 in Europe, Asia, Africa,
 
-
-
 [[Cyber Truck]]
 
   + Self driving
@@ -114,8 +104,6 @@ Places I want to go experience
 
   + Backup generator
 
-
-
 Feeling and emotions
 
   + Freedom
@@ -132,8 +120,6 @@ Feeling and emotions
 
   + adventure, unknown, risks
 
-
-
 Time and Money
 
   + Funding ideas
@@ -145,31 +131,3 @@ Time and Money
     + Crowdfunding
 
     + Cyber Truck mod rental business
-
-
-
-
-
-Publish steps #css-red-bg
-
-  + Mark Page as "Make it public for publishing"
-
-  + Hugo page proporties
-
-    + public: true
-
-    + tags:
-
-    + category:
-
-    + date: 2023-02-07
-
-  + Then select "Export all public pages to hugo"
-
-  + export zip file
-
-  + unzip and copy new files to Git folder
-
-  + Commit changes
-
-  + Github action will build and deploy
