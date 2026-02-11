@@ -16,9 +16,9 @@ Maybe you got into the real estate game before a lot of other people and have a 
 
 Seems to me that banks are the only ones that are profiting from higher and higher real estate prices.
 
-Even if I was lucky to afford a place. Increasing proporty prices will increase proporty taxes and become less and less affordable as you age. Many people who bought a proporty when it was very affordable could be kicked out of their own neighbourhoods just because the real estate price got so much higher than what they can afford to pay tax on.
+Even if I was lucky to afford a place. Increasing property prices will increase property taxes and become less and less affordable as you age. Many people who bought a property when it was very affordable could be kicked out of their own neighbourhoods just because the real estate price got so much higher than what they can afford to pay tax on.
 
-Even if my place became more expensive and I sold my place I would have to find another place to live. And if the rent keep s going up, and real estate prices keep going up the profit I make from selling the place doesn't really bring any value since it has to go to pay for the next place I want to live in.
+Even if my place became more expensive and I sold my place I would have to find another place to live. And if the rent keeps going up, and real estate prices keep going up the profit I make from selling the place doesn't really bring any value since it has to go to pay for the next place I want to live in.
 
 
 

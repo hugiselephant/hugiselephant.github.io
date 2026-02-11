@@ -5,7 +5,7 @@ tags:
 category:
 - my thoughts
 date: 2023-11-06
-title: Rubber band of knwledge
+title: Rubber band of knowledge
 categories:
 - my thoughts
 lastMod: 2023-11-06

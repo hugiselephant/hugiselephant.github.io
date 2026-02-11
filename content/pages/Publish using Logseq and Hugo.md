@@ -23,7 +23,7 @@ Outline
 
   + Ideas grow in a Nonlinear Workflow
 
-    + in a safe an private place, second brain, architecs and the gardeners
+    + in a safe an private place, second brain, architects and the gardeners
 
   + Logseq the safe incubating ideas Page
 
@@ -47,11 +47,11 @@ Outline
 
       + Permanent home
 
-        + like getting married, hard to commit, posting somthing to the public, like carving in stone.
+        + like getting married, hard to commit, posting something to the public, like carving in stone.
 
         + makes it grow,
 
-    + Idea - turn any page into an article with one cilick!
+    + Idea - turn any page into an article with one click!
 
       + Make it public for publishing
 
