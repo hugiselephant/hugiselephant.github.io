@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Assets on Hugi's Elephant</title><link>https://hugiselephant.com/assets/</link><description>Recent content in Assets on Hugi's Elephant</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://hugiselephant.com/assets/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://hugiselephant.com/assets/pong_1680072504530_0/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hugiselephant.com/assets/pong_1680072504530_0/</guid><description>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="UTF-8"&gt;
+&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+&lt;title&gt;Pong Game&lt;/title&gt;
+&lt;style&gt;
+canvas {
+display: block;
+margin: auto;
+background-color: black;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;canvas id="gameCanvas" width="800" height="600"&gt;&lt;/canvas&gt;
+&lt;script&gt;
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+let ballX = canvas.width / 2;
+let ballY = canvas.height / 2;
+let ballSpeedX = 5;
+let ballSpeedY = 3;
+const paddleHeight = 100;
+const paddleWidth = 10;
+let paddle1Y = (canvas.height - paddleHeight) / 2;
+let paddle2Y = (canvas.height - paddleHeight) / 2;
+const movePaddle = (e) =&gt; {
+const mouseY = e.clientY - canvas.getBoundingClientRect().top;
+paddle1Y = mouseY - paddleHeight / 2;
+}
+const keyDownHandler = (e) =&gt; {
+if (e.key === 'w' || e.key === 'W') {
+paddle2Y -= 20;
+} else if (e.key === 's' || e.key === 'S') {
+paddle2Y += 20;
+}
+}
+const drawRect = (x, y, width, height, color) =&gt; {
+ctx.fillStyle = color;
+ctx.fillRect(x, y, width, height);
+}
+const drawCircle = (x, y, radius, color) =&gt; {
+ctx.fillStyle = color;
+ctx.beginPath();
+ctx.arc(x, y, radius, 0, Math.PI * 2, true);
+ctx.fill();
+}
+const draw = () =&gt; {
+// Clear canvas
+drawRect(0, 0, canvas.width, canvas.height, 'black');
+// Draw paddles
+drawRect(0, paddle1Y, paddleWidth, paddleHeight, 'white');
+drawRect(canvas.width - paddleWidth, paddle2Y, paddleWidth, paddleHeight, 'white');
+// Draw ball
+drawCircle(ballX, ballY, 10, 'white');
+}
+const move = () =&gt; {
+ballX += ballSpeedX;
+ballY += ballSpeedY;
+if (ballY &lt; 0 || ballY &gt; canvas.height) {
+ballSpeedY = -ballSpeedY;
+}
+if (ballX &lt; 0 || ballX &gt; canvas.width) {
+ballSpeedX = -ballSpeedX;
+}
+if (ballX &lt; paddleWidth &amp;&amp; ballY &gt; paddle1Y &amp;&amp; ballY &lt; paddle1Y + paddleHeight) {
+ballSpeedX = -ballSpeedX;
+}
+if (ballX &gt; canvas.width - paddleWidth * 2 &amp;&amp; ballY &gt; paddle2Y &amp;&amp; ballY &lt; paddle2Y + paddleHeight) {
+ballSpeedX = -ballSpeedX;
+}
+}
+const gameLoop = () =&gt; {
+draw();
+move();
+requestAnimationFrame(gameLoop);
+}
+canvas.addEventListener('mousemove', movePaddle);
+document.addEventListener('keydown', keyDownHandler);
+gameLoop();
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description></item></channel></rss>
