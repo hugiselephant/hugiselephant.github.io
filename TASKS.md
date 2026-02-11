@@ -7,11 +7,11 @@ A prioritized list of improvements and maintenance tasks for the personal blog.
 ## High Priority
 
 ### 1. Update GitHub Actions Workflow
-- [ ] Upgrade `actions/checkout` from `v2` to `v4`
-- [ ] Upgrade `peaceiris/actions-hugo` from `v2` to latest
-- [ ] Upgrade `peaceiris/actions-gh-pages` from `v3` to latest
-- [ ] Upgrade runner from `ubuntu-20.04` (EOL) to `ubuntu-latest`
-- [ ] Pin Hugo to a specific version instead of `latest` for reproducible builds
+- [x] Upgrade `actions/checkout` from `v2` to `v4`
+- [x] Upgrade `peaceiris/actions-hugo` from `v2` to `v3`
+- [x] Upgrade `peaceiris/actions-gh-pages` from `v3` to `v4`
+- [x] Upgrade runner from `ubuntu-20.04` (EOL) to `ubuntu-latest`
+- [x] Pin Hugo to a specific version (`0.155.1`) instead of `latest` for reproducible builds
 
 ### 2. Fix Content Typos and Filenames
 - [ ] Rename `Rubber band of knwledge.md` → `Rubber band of knowledge.md` (typo in filename)
