@@ -2,12 +2,12 @@
 tags:
 - Vision Pro
 - Singularity
-- Spacial Computing
+- Spatial Computing
 - VR
 - AR
 category: 
 date: 2023-06-07
-title: Spacial Computing
+title: Spatial Computing
 categories:
 lastMod: 2023-06-07
 ---
@@ -19,11 +19,11 @@ It used to be a philosophical question, but now it has become a more practical, 
 
 
 
-I want to take this opportunity to think about what it will mean to have this new power. Not being limited by current iteration of the technology but looking forward to the final form factor of [Spacial Computing]({{< ref "/pages/Spacial Computing" >}}). Which is going to be invisible like a pair of glasses, or contact lenses.
+I want to take this opportunity to think about what it will mean to have this new power. Not being limited by current iteration of the technology but looking forward to the final form factor of [Spatial Computing]({{< ref "/pages/Spatial Computing" >}}). Which is going to be invisible like a pair of glasses, or contact lenses.
 
 
 
-So what is the fascination with VR, AR, XR? Or as Apple put it [Spacial Computing]({{< ref "/pages/Spacial Computing" >}}) anyway?
+So what is the fascination with VR, AR, XR? Or as Apple put it [Spatial Computing]({{< ref "/pages/Spatial Computing" >}}) anyway?
 
   + Why are so many people excited about this technology?
 

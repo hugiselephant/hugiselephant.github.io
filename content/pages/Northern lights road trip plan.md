@@ -35,7 +35,7 @@ This is my plan
 
 I generated some images using [DiffusionBee](https://diffusionbee.com/) with this prompt for fun. It's more fun since Stable Diffusion has never seen images of the real Cyber Truck. It is kind of like I am dreaming with AI.
 
-> tough electric tesla cyber truck looks like a sleek military armoured vehicle, made of flat shiny stainless steal triangular panels, converted into a camping truck with rooftop with glass dome on top to see the northern lights and stars in the beautiful night sky in wintery northern Canada. HD, photograph, nature photograph, long exposure night sky
+> tough electric tesla cyber truck looks like a sleek military armoured vehicle, made of flat shiny stainless steel triangular panels, converted into a camping truck with rooftop with glass dome on top to see the northern lights and stars in the beautiful night sky in wintery northern Canada. HD, photograph, nature photograph, long exposure night sky
 
 ![image.png](/assets/image_1678259218897_0.png)
 

@@ -60,7 +60,7 @@ Places I want to go experience
 
       + Yellow Stone Park
 
-      + Grand Canion
+      + Grand Canyon
 
     + Culture, Food, Events, Festivals
 
@@ -70,7 +70,7 @@ Places I want to go experience
 
     + Cities
 
-      + San Diago
+      + San Diego
 
       + Miami
 

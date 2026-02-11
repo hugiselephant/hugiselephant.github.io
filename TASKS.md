@@ -14,9 +14,9 @@ A prioritized list of improvements and maintenance tasks for the personal blog.
 - [x] Pin Hugo to a specific version (`0.155.1`) instead of `latest` for reproducible builds
 
 ### 2. Fix Content Typos and Filenames
-- [ ] Rename `Rubber band of knwledge.md` → `Rubber band of knowledge.md` (typo in filename)
-- [ ] Rename `Spacial Computing.md` → `Spatial Computing.md` (typo in filename)
-- [ ] Audit all pages for spelling/grammar issues
+- [x] Rename `Rubber band of knwledge.md` → `Rubber band of knowledge.md` (typo in filename)
+- [x] Rename `Spacial Computing.md` → `Spatial Computing.md` (typo in filename)
+- [x] Audit all pages for spelling/grammar issues
 
 ### 3. Improve Content Metadata Consistency
 - [ ] Ensure all pages have `date` and `lastmod` fields in frontmatter

@@ -22,7 +22,7 @@ I am very grateful, and I feel very fortunate. I just came back from a one week 
 
   + Escaping the grey weather.
 
-  + Being in such a beautiful exotic surrounding with palm trees, clear blue sky, and wales playing in the deep blue of the ocean.
+  + Being in such a beautiful exotic surrounding with palm trees, clear blue sky, and whales playing in the deep blue of the ocean.
 
   + Meeting people, experiencing different cultures.
 
